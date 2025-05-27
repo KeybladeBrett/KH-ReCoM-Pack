@@ -5,13 +5,13 @@ game: Recom
 specifications: 0
 dependencies: 
 assets:
-- name: STREAM\0001\01F_Town_B.scd
+- name: STREAM\0001\01F_Town_B.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\01F_Town_B.scd
+  - name: STREAM\0001\01F_Town_B.win32.scd
     method: 
     platform: 
     package: 
@@ -29,13 +29,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\01F_Town_F.scd
+- name: STREAM\0001\01F_Town_F.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\01F_Town_F.scd
+  - name: STREAM\0001\01F_Town_F.win32.scd
     method: 
     platform: 
     package: 
@@ -53,13 +53,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\03F_Hercul.scd
+- name: STREAM\0001\03F_Hercul.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\03F_Hercul.scd
+  - name: STREAM\0001\03F_Hercul.win32.scd
     method: 
     platform: 
     package: 
@@ -77,13 +77,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\03F_Hercules_B.scd
+- name: STREAM\0001\03F_Hercules_B.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\03F_Hercules_B.scd
+  - name: STREAM\0001\03F_Hercules_B.win32.scd
     method: 
     platform: 
     package: 
@@ -101,13 +101,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\12_Event_Yuttari.scd
+- name: STREAM\0001\12_Event_Yuttari.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\12_Event_Yuttari.scd
+  - name: STREAM\0001\12_Event_Yuttari.win32.scd
     method: 
     platform: 
     package: 
@@ -125,13 +125,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\13_Event_Namine.scd
+- name: STREAM\0001\13_Event_Namine.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\13_Event_Namine.scd
+  - name: STREAM\0001\13_Event_Namine.win32.scd
     method: 
     platform: 
     package: 
@@ -149,13 +149,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\14_Event_Odayaka.scd
+- name: STREAM\0001\14_Event_Odayaka.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\14_Event_Odayaka.scd
+  - name: STREAM\0001\14_Event_Odayaka.win32.scd
     method: 
     platform: 
     package: 
@@ -173,13 +173,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\15_Event_XIII.scd
+- name: STREAM\0001\15_Event_XIII.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\15_Event_XIII.scd
+  - name: STREAM\0001\15_Event_XIII.win32.scd
     method: 
     platform: 
     package: 
@@ -197,13 +197,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\16_XIIIBoss1.scd
+- name: STREAM\0001\16_XIIIBoss1.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\16_XIIIBoss1.scd
+  - name: STREAM\0001\16_XIIIBoss1.win32.scd
     method: 
     platform: 
     package: 
@@ -221,13 +221,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\17_Halloween_F.scd
+- name: STREAM\0001\17_Halloween_F.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\17_Halloween_F.scd
+  - name: STREAM\0001\17_Halloween_F.win32.scd
     method: 
     platform: 
     package: 
@@ -245,13 +245,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\18_Helloween_B.scd
+- name: STREAM\0001\18_Helloween_B.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\18_Helloween_B.scd
+  - name: STREAM\0001\18_Helloween_B.win32.scd
     method: 
     platform: 
     package: 
@@ -269,13 +269,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\19_Alice_Field.scd
+- name: STREAM\0001\19_Alice_Field.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\19_Alice_Field.scd
+  - name: STREAM\0001\19_Alice_Field.win32.scd
     method: 
     platform: 
     package: 
@@ -293,13 +293,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\21_Alice_Battle.scd
+- name: STREAM\0001\21_Alice_Battle.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\21_Alice_Battle.scd
+  - name: STREAM\0001\21_Alice_Battle.win32.scd
     method: 
     platform: 
     package: 
@@ -317,13 +317,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\23_PeterPan_Battle.scd
+- name: STREAM\0001\23_PeterPan_Battle.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\23_PeterPan_Battle.scd
+  - name: STREAM\0001\23_PeterPan_Battle.win32.scd
     method: 
     platform: 
     package: 
@@ -341,13 +341,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\24_Pinocchio_Field.scd
+- name: STREAM\0001\24_Pinocchio_Field.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\24_Pinocchio_Field.scd
+  - name: STREAM\0001\24_Pinocchio_Field.win32.scd
     method: 
     platform: 
     package: 
@@ -365,13 +365,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\25_Aladdin_F.scd
+- name: STREAM\0001\25_Aladdin_F.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\25_Aladdin_F.scd
+  - name: STREAM\0001\25_Aladdin_F.win32.scd
     method: 
     platform: 
     package: 
@@ -389,13 +389,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\26_Aladdin_B.scd
+- name: STREAM\0001\26_Aladdin_B.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\26_Aladdin_B.scd
+  - name: STREAM\0001\26_Aladdin_B.win32.scd
     method: 
     platform: 
     package: 
@@ -413,13 +413,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\27_Pinocchio_B.scd
+- name: STREAM\0001\27_Pinocchio_B.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\27_Pinocchio_B.scd
+  - name: STREAM\0001\27_Pinocchio_B.win32.scd
     method: 
     platform: 
     package: 
@@ -437,13 +437,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\28_Forget_F.scd
+- name: STREAM\0001\28_Forget_F.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\28_Forget_F.scd
+  - name: STREAM\0001\28_Forget_F.win32.scd
     method: 
     platform: 
     package: 
@@ -461,13 +461,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\29_Forget_B.scd
+- name: STREAM\0001\29_Forget_B.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\29_Forget_B.scd
+  - name: STREAM\0001\29_Forget_B.win32.scd
     method: 
     platform: 
     package: 
@@ -485,13 +485,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\30_Twilight_F.scd
+- name: STREAM\0001\30_Twilight_F.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\30_Twilight_F.scd
+  - name: STREAM\0001\30_Twilight_F.win32.scd
     method: 
     platform: 
     package: 
@@ -509,13 +509,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\31_Twilight_B.scd
+- name: STREAM\0001\31_Twilight_B.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\31_Twilight_B.scd
+  - name: STREAM\0001\31_Twilight_B.win32.scd
     method: 
     platform: 
     package: 
@@ -533,13 +533,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\32_Destiny_F.scd
+- name: STREAM\0001\32_Destiny_F.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\32_Destiny_F.scd
+  - name: STREAM\0001\32_Destiny_F.win32.scd
     method: 
     platform: 
     package: 
@@ -557,13 +557,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\33_Destiny_B.scd
+- name: STREAM\0001\33_Destiny_B.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\33_Destiny_B.scd
+  - name: STREAM\0001\33_Destiny_B.win32.scd
     method: 
     platform: 
     package: 
@@ -581,13 +581,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\36_WinnieThePooh.scd
+- name: STREAM\0001\36_WinnieThePooh.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\36_WinnieThePooh.scd
+  - name: STREAM\0001\36_WinnieThePooh.win32.scd
     method: 
     platform: 
     package: 
@@ -605,13 +605,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\37_LastBoss1.scd
+- name: STREAM\0001\37_LastBoss1.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\37_LastBoss1.scd
+  - name: STREAM\0001\37_LastBoss1.win32.scd
     method: 
     platform: 
     package: 
@@ -629,13 +629,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\39_LittleMermaid_B.scd
+- name: STREAM\0001\39_LittleMermaid_B.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\39_LittleMermaid_B.scd
+  - name: STREAM\0001\39_LittleMermaid_B.win32.scd
     method: 
     platform: 
     package: 
@@ -653,13 +653,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\40_LastBoss2.scd
+- name: STREAM\0001\40_LastBoss2.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\40_LastBoss2.scd
+  - name: STREAM\0001\40_LastBoss2.win32.scd
     method: 
     platform: 
     package: 
@@ -677,13 +677,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\41_LastBoss3.scd
+- name: STREAM\0001\41_LastBoss3.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\41_LastBoss3.scd
+  - name: STREAM\0001\41_LastBoss3.win32.scd
     method: 
     platform: 
     package: 
@@ -701,13 +701,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\42_Hollow_F.scd
+- name: STREAM\0001\42_Hollow_F.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\42_Hollow_F.scd
+  - name: STREAM\0001\42_Hollow_F.win32.scd
     method: 
     platform: 
     package: 
@@ -725,13 +725,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\43_Hollow_B.scd
+- name: STREAM\0001\43_Hollow_B.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\43_Hollow_B.scd
+  - name: STREAM\0001\43_Hollow_B.win32.scd
     method: 
     platform: 
     package: 
@@ -749,13 +749,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\44_PooGame1.scd
+- name: STREAM\0001\44_PooGame1.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\44_PooGame1.scd
+  - name: STREAM\0001\44_PooGame1.win32.scd
     method: 
     platform: 
     package: 
@@ -773,13 +773,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\45_PoohGame2.scd
+- name: STREAM\0001\45_PoohGame2.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\45_PoohGame2.scd
+  - name: STREAM\0001\45_PoohGame2.win32.scd
     method: 
     platform: 
     package: 
@@ -797,13 +797,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\Boss1.scd
+- name: STREAM\0001\Boss1.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\Boss1.scd
+  - name: STREAM\0001\Boss1.win32.scd
     method: 
     platform: 
     package: 
@@ -821,13 +821,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\Boss2_World.scd
+- name: STREAM\0001\Boss2_World.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\Boss2_World.scd
+  - name: STREAM\0001\Boss2_World.win32.scd
     method: 
     platform: 
     package: 
@@ -845,13 +845,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\20_Event_13thFloor.scd
+- name: STREAM\0001\20_Event_13thFloor.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\20_Event_13thFloor.scd
+  - name: STREAM\0001\20_Event_13thFloor.win32.scd
     method: 
     platform: 
     package: 
@@ -869,13 +869,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\Event_Unrest.scd
+- name: STREAM\0001\Event_Unrest.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\Event_Unrest.scd
+  - name: STREAM\0001\Event_Unrest.win32.scd
     method: 
     platform: 
     package: 
@@ -893,13 +893,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\Event1_Kinpak.scd
+- name: STREAM\0001\Event1_Kinpak.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\Event1_Kinpak.scd
+  - name: STREAM\0001\Event1_Kinpak.win32.scd
     method: 
     platform: 
     package: 
@@ -917,13 +917,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\Event2_.scd
+- name: STREAM\0001\Event2_.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\Event2_.scd
+  - name: STREAM\0001\Event2_.win32.scd
     method: 
     platform: 
     package: 
@@ -941,13 +941,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\Event4.scd
+- name: STREAM\0001\Event4.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\Event4.scd
+  - name: STREAM\0001\Event4.win32.scd
     method: 
     platform: 
     package: 
@@ -965,13 +965,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\Title.scd
+- name: STREAM\0001\Title.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\Title.scd
+  - name: STREAM\0001\Title.win32.scd
     method: 
     platform: 
     package: 
@@ -989,13 +989,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\38_UnderTheSea.scd
+- name: STREAM\0001\38_UnderTheSea.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\38_UnderTheSea.scd
+  - name: STREAM\0001\38_UnderTheSea.win32.scd
     method: 
     platform: 
     package: 
@@ -1013,13 +1013,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\22_PeterPan_Field.scd
+- name: STREAM\0001\22_PeterPan_Field.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\22_PeterPan_Field.scd
+  - name: STREAM\0001\22_PeterPan_Field.win32.scd
     method: 
     platform: 
     package: 
@@ -1037,13 +1037,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\35_Boss_NiseRiku.scd
+- name: STREAM\0001\35_Boss_NiseRiku.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\35_Boss_NiseRiku.scd
+  - name: STREAM\0001\35_Boss_NiseRiku.win32.scd
     method: 
     platform: 
     package: 
@@ -1061,13 +1061,13 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: STREAM\0001\34_Boss_RikuAnsem.scd
+- name: STREAM\0001\34_Boss_RikuAnsem.win32.scd
   method: copy
   platform: pc
   package: Recom
   multi: 
   source:
-  - name: STREAM\0001\34_Boss_RikuAnsem.scd
+  - name: STREAM\0001\34_Boss_RikuAnsem.win32.scd
     method: 
     platform: 
     package: 
