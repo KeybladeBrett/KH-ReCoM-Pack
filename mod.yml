@@ -1,0 +1,1087 @@
+title: KHReCoM GBA Music Pack
+originalAuthor: KeybladeBrett
+description: Restore the original OST in this music pack!
+game: Recom
+specifications: 0
+dependencies: 
+assets:
+- name: STREAM\0001\01F_Town_B.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\01F_Town_B.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\01F_Town_F.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\01F_Town_F.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\03F_Hercul.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\03F_Hercul.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\03F_Hercules_B.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\03F_Hercules_B.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\12_Event_Yuttari.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\12_Event_Yuttari.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\13_Event_Namine.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\13_Event_Namine.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\14_Event_Odayaka.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\14_Event_Odayaka.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\15_Event_XIII.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\15_Event_XIII.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\16_XIIIBoss1.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\16_XIIIBoss1.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\17_Halloween_F.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\17_Halloween_F.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\18_Helloween_B.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\18_Helloween_B.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\19_Alice_Field.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\19_Alice_Field.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\21_Alice_Battle.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\21_Alice_Battle.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\23_PeterPan_Battle.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\23_PeterPan_Battle.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\24_Pinocchio_Field.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\24_Pinocchio_Field.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\25_Aladdin_F.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\25_Aladdin_F.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\26_Aladdin_B.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\26_Aladdin_B.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\27_Pinocchio_B.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\27_Pinocchio_B.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\28_Forget_F.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\28_Forget_F.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\29_Forget_B.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\29_Forget_B.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\30_Twilight_F.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\30_Twilight_F.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\31_Twilight_B.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\31_Twilight_B.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\32_Destiny_F.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\32_Destiny_F.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\33_Destiny_B.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\33_Destiny_B.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\36_WinnieThePooh.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\36_WinnieThePooh.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\37_LastBoss1.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\37_LastBoss1.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\39_LittleMermaid_B.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\39_LittleMermaid_B.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\40_LastBoss2.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\40_LastBoss2.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\41_LastBoss3.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\41_LastBoss3.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\42_Hollow_F.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\42_Hollow_F.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\43_Hollow_B.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\43_Hollow_B.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\44_PooGame1.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\44_PooGame1.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\45_PoohGame2.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\45_PoohGame2.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\Boss1.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\Boss1.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\Boss2_World.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\Boss2_World.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\20_Event_13thFloor.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\20_Event_13thFloor.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\Event_Unrest.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\Event_Unrest.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\Event1_Kinpak.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\Event1_Kinpak.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\Event2_.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\Event2_.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\Event4.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\Event4.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\Title.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\Title.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\38_UnderTheSea.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\38_UnderTheSea.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\22_PeterPan_Field.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\22_PeterPan_Field.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\35_Boss_NiseRiku.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\35_Boss_NiseRiku.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: STREAM\0001\34_Boss_RikuAnsem.scd
+  method: copy
+  platform: pc
+  package: Recom
+  multi: 
+  source:
+  - name: STREAM\0001\34_Boss_RikuAnsem.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
